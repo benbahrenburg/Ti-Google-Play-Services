@@ -10,6 +10,9 @@ You can find the versions of Google Play packaged with the Ti.Map module organiz
 <h3>Ti.GA</h3>
 You can find the versions of Google Play packaged with the Ti.GA module organized by version at  [https://github.com/benbahrenburg/Ti-Google-Play-Services/tree/master/Modules/Ti.GA](https://github.com/benbahrenburg/Ti-Google-Play-Services/tree/master/Modules/Ti.GA)
 
+<h3>ti.admob</h3>
+At the moment Appcelerator is still including the full Goolge Play jar as part of the ti.admob module. As this module is updated it will most likely be split.  You can find the versions of Google Play packaged with the ti.admob module organized by version at  [https://github.com/benbahrenburg/Ti-Google-Play-Services/tree/master/Modules/ti.admob](https://github.com/benbahrenburg/Ti-Google-Play-Services/tree/master/Modules/ti.admob)
+
 <h2>By Ti SDK Version</h2>
 Hopefully Titanium will package only one version of Google Play Services by version.
 Starting with Ti SDK 5.1.0.GA you can find a list of the complete (full) Google Play Service JAR by Ti SDK version at  [https://github.com/benbahrenburg/Ti-Google-Play-Services/tree/master/Ti-SDK](https://github.com/benbahrenburg/Ti-Google-Play-Services/tree/master/Ti-SDK)
